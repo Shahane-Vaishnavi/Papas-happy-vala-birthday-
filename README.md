@@ -6,14 +6,11 @@ A birthday website is a unique and thoughtful way to wish someone you love. Inst
 
 ## 🎥 Video Demo
 
-<video width="100%" controls>
-  <source src="./public/Preview%20video%20of%20websit.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Website Preview Demo](./public/preview-demo.gif)
 
-**Note:** If the video doesn't play in the README, you can [download it here](./public/Preview%20video%20of%20websit.mp4) or view it directly in the `public` folder.
+*Watch the animated preview above to see the Happy Birthday Papa website in action!*
 
-*Watch the preview video to see the Happy Birthday Papa website in action*
+> **Full Video:** [Download the complete video](./public/Preview%20video%20of%20websit.mp4) for better quality
 
 ## 🚀 Quick Start
 
