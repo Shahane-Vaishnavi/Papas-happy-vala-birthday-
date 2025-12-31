@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> bd52bd13d9de211b54478619ad94454a23aba5c3
 # Happy Birthday Papa 🎉
 
 A beautiful celebration website dedicated to my Papa, featuring a heartfelt tribute with photos, stories, and special moments.
@@ -95,3 +99,8 @@ Private project - All rights reserved
 ---
 
 Made with ❤️ for Papa
+<<<<<<< HEAD
+=======
+
+=======
+>>>>>>> bd52bd13d9de211b54478619ad94454a23aba5c3
