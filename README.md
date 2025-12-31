@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Happy Birthday Papa 🎉
 
 A beautiful celebration website dedicated to Papa, featuring a heartfelt tribute with photos, stories, and special moments.
@@ -96,5 +96,3 @@ Private project - All rights reserved
 Made with ❤️ for Papa
 
 =======
-# Papas-happy-vala-birthday-
->>>>>>> 13286fb5fa8934c31546ecea13bf64c4e37382e3
