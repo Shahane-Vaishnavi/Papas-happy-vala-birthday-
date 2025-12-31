@@ -1,7 +1,8 @@
-<<<<<<< HEAD
 # Happy Birthday Papa 🎉
 
-A beautiful celebration website dedicated to Papa, featuring a heartfelt tribute with photos, stories, and special moments.
+A beautiful celebration website dedicated to my Papa, featuring a heartfelt tribute with photos, stories, and special moments.
+
+A birthday website is a unique and thoughtful way to wish someone you love. Instead of a simple message, it becomes a personalized digital experience that shows effort, creativity, and genuine affection. As a CSE student, building a custom birthday website is even more meaningful—it becomes a way to express love while also showcasing your technical skills. From designing the UI to adding animations and interactive features, this project reflects both your emotions and your growth in web development. It’s a beautiful way to make someone feel special and to demonstrate what you’re capable of creating. 💛🎉
 
 ## 🚀 Quick Start
 
@@ -94,7 +95,3 @@ Private project - All rights reserved
 ---
 
 Made with ❤️ for Papa
-
-=======
-# Papas-happy-vala-birthday-
->>>>>>> 13286fb5fa8934c31546ecea13bf64c4e37382e3
