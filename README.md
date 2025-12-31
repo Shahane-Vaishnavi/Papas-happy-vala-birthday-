@@ -4,11 +4,16 @@ A beautiful celebration website dedicated to my Papa, featuring a heartfelt trib
 
 A birthday website is a unique and thoughtful way to wish someone you love. Instead of a simple message, it becomes a personalized digital experience that shows effort, creativity, and genuine affection. As a CSE student, building a custom birthday website is even more meaningful—it becomes a way to express love while also showcasing your technical skills. From designing the UI to adding animations and interactive features, this project reflects both your emotions and your growth in web development. It's a beautiful way to make someone feel special and to demonstrate what you're capable of creating. 💛🎉
 
-## 📸 Preview
+## 🎥 Video Demo
 
-![Project Preview](./public/Preview%20of%20project.png)
+<video width="100%" controls>
+  <source src="./public/Preview%20video%20of%20websit.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-*Preview of the Happy Birthday Papa website*
+**Note:** If the video doesn't play in the README, you can [download it here](./public/Preview%20video%20of%20websit.mp4) or view it directly in the `public` folder.
+
+*Watch the preview video to see the Happy Birthday Papa website in action*
 
 ## 🚀 Quick Start
 
